@@ -1,0 +1,22 @@
+mkdir OS
+cd OS
+mkdir Dir1
+mkdir Dir2
+cd Dir1
+nano hello.txt
+"Hello World!"
+nano hello.txt
+"Nothing Important :)"
+cp ~/Home/OS/Dir1/hello.txt ~/Home/OS/Dir2/copy.txt
+ls ~/OS/Dir2
+mv file.txt hello.txt
+ls -l
+cat hello.txt
+rm hello.txt
+cd ..
+pwd
+rmdir Dir1
+cd Dir2
+rm copy.txt
+cd ..
+rmdir Dir2
