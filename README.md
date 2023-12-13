@@ -1,2 +1,2 @@
 # CSC326
-This is a repository for the assignments that I have done for the CSC326 course (Operating systems).
+This repository contains the assignments that I have completed for the Operating Systems course (CSC326). 
